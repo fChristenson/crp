@@ -4,7 +4,7 @@ const path = require("path");
 
 app.use(express.json());
 
-const jsWaitTime = 10_000;
+const jsWaitTime = 0;
 const cssWaitTime = 0;
 
 app.get("/main.js", (req, res) => {
