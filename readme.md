@@ -41,7 +41,7 @@ This means that you need to load your Css before your JavaScript if you want to 
 
 #### Async
 
-The `async` attribute will execture the script without blocking. [2]
+The `async` attribute will execute the script without blocking. [2]
 
 Use async on scripts that need to be in the header such as:
 
