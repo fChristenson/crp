@@ -53,4 +53,5 @@ Put all other scripts at the bottom of the body as a rule.
 ## References
 
 [1] https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path
+
 [2] https://www.w3schools.com/tags/att_script_async.asp
